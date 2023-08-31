@@ -1,0 +1,17 @@
+{
+  "domain": "ultimatron_battery",
+  "name": "Ultimatron Battery BLE",
+  "bluetooth": [
+    {
+      "service_data_uuid": "0000ff00-0000-1000-8000-00805f9b34fb",
+      "connectable": false
+    }
+  ],
+  "codeowners": ["@sergkh"],
+  "config_flow": true,
+  "dependencies": ["bluetooth_adapters"],
+  "documentation": "https://www.home-assistant.io/integrations/ultimatron_battery",
+  "integration_type": "device",
+  "iot_class": "local_push",
+  "requirements": ["bleak==0.20.2"]
+}

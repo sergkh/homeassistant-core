@@ -1321,6 +1321,7 @@ build.json @home-assistant/supervisor
 /tests/components/twitch/ @joostlek
 /homeassistant/components/ukraine_alarm/ @PaulAnnekov
 /tests/components/ukraine_alarm/ @PaulAnnekov
+/homeassistant/components/ultimatron_battery/ @sergkh
 /homeassistant/components/unifi/ @Kane610
 /tests/components/unifi/ @Kane610
 /homeassistant/components/unifiled/ @florisvdk

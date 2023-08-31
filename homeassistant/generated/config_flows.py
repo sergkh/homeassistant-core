@@ -491,6 +491,7 @@ FLOWS = {
         "twilio",
         "twinkly",
         "ukraine_alarm",
+        "ultimatron_battery",
         "unifi",
         "unifiprotect",
         "upb",
